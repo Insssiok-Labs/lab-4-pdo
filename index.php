@@ -26,7 +26,7 @@ if (!$result) {
         Add Expense
     </a>
     <a href="handlers/auth/logout_handler.php">
-        Одјави се
+        Logout
     </a>
 </div>
 <table>
